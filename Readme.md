@@ -23,8 +23,8 @@
 ![Screenshot (30)](https://user-images.githubusercontent.com/73807910/204603815-94e2a7f8-3cb4-4597-bda9-742f7cbbd325.png)
 # Make a new notebook
 ![Screenshot (31)](https://user-images.githubusercontent.com/73807910/204604461-21559ade-55e9-4613-856e-e1f920b6a07e.png)
-## Click on "Untitled" to "Rename" a file.
-![Screenshot (32)](https://user-images.githubusercontent.com/73807910/204604648-055d271c-d50d-4e61-8d25-fc430b733d3b.png)
+## Click on underlined "Untitled" to "Rename" a file.
+![Screenshot (32)](https://user-images.githubusercontent.com/73807910/204605433-32b961d5-38bb-4aa7-bc8a-6091e46d0310.png)
 ***
 # First Program - Hello World
 ![Screenshot (33)](https://user-images.githubusercontent.com/73807910/204604801-58c03f94-a43b-459a-add7-23f9aeacbee5.png)
