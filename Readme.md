@@ -5,6 +5,7 @@
 ## Make Files
 * ### 1. `installJupyter.bat`
 * ### 2. `runJupyter.bat`
+* ![Screenshot_20221129_110450](https://user-images.githubusercontent.com/73807910/204601779-8149b80d-6452-443a-a2e1-5897deaf4e20.png)
 ***
 ## Write these.
 * ### 1. `cmd /k "python -m venv jupyterEnv & jupyterEnv\Scripts\activate & pip install jupyterlab & pip install notebook"` in `installJupyter.bat`
