@@ -1,6 +1,7 @@
 # How to setup jupyter notebook on windows using "pip".
 ## Folder
-* ### Create a folder where you want to save all your jupyter-notebook files, then open your command prompt in that same folder.
+* ### Create a folder where you want to save all your jupyter-notebook files, then open your command prompt in that same folder. For example :- I will name my desired folder as "python_other"
+![image](https://user-images.githubusercontent.com/73807910/204606263-d9c68f45-e4a5-4be0-9f33-e2dbd8e3a8f6.png)
 ***
 ## Make Files
 * ### 1. `installJupyter.bat`
