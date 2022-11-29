@@ -1,0 +1,1 @@
+cmd /k "python -m venv jupyterEnv & jupyterEnv\Scripts\activate & pip install jupyterlab & pip install notebook"
