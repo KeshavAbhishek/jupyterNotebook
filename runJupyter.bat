@@ -1,1 +1,0 @@
-cmd /k "jupyterEnv\Scripts\activate & jupyter notebook"
